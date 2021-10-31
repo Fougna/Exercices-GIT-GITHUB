@@ -33,7 +33,7 @@ git init
 touch script.js  
 git add script.js  
 git add commit -m"Commentaire"  
-git remote add newRepository  
+git remote add origin newRepository  
 git push origin master  
   
 ***11. Quelle est l'utilité des branches ?***  
