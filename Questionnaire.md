@@ -18,7 +18,7 @@ git init
 git add .  
   
 ***7. Le code suivant est-il correct ? :*** **git commit**  
-Non, la code correct est : git commit -m"Commentaire du développeur"  
+Non, le code correct est : git commit -m"Commentaire du développeur"  
   
 ***8. Écrire le code pour enregistrer le fichier "script.js” via GIT.***  
 git add script.js  
