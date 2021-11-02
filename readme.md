@@ -8,4 +8,4 @@ FR : Ceci sont des exercices basiques visant à se familiariser avec l'usage de 
 Les exercices ont été imaginés par Amin Mangeot (https://fr.linkedin.com/in/amin-mangeot-5b4b44112).
 
 ---------------------------------------------------------------------------------
-Sébastien Ferran
+Sébastien Ferran (https://www.linkedin.com/in/sébastien-ferran-96a520a6/)
