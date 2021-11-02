@@ -1,4 +1,5 @@
 # GIT & GITHUB Training exercise (Beginner level)
+![Philiance : Exercices sur Git & GitHub](/Images/Philiance-GIT.png "Logo Philiance Git & GitHub")
 ---------------------------------------------------------------------------------
 ENG: This is a basic training exercise to get used with GIT & GITHUB, made during a training course at Philiance training center (https://www.philiance.com/).  
 Exercices were designed by Amin Mangeot (https://fr.linkedin.com/in/amin-mangeot-5b4b44112).
